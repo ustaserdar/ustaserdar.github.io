@@ -12,8 +12,9 @@ coverImage: "public/assets/1651590157635_First-steps-of-a-1-year-old-baby-boy-in
 author:
   createdAt: 1648739479178
   ID: "524c0608-83d6-4bb0-a833-3e2e4df14959"
-  name: "Joe Haddad"
-  picture: "public/assets/1648739476671_joe.jpeg"
+  name: "Serdar Usta"
+  picture: "public/assets/1651590293520_61775168.jpeg"
+  updatedAt: 1651590294829
 ogImage:
   createdAt: 1648739508370
   ID: "6dffe5d9-d6f1-4e2b-a4dc-3dada90ab412"
