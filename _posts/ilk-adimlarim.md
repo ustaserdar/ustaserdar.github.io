@@ -2,7 +2,7 @@
 createdAt: 1648739428683
 title: "İlk Adımlarım"
 categories:
-  - "lorem"
+  - "blog"
 ID: "2f9224a8-8a7f-4ded-b983-408aaeeae180"
 slug: "ilk-adimlarim"
 description: "Bir yazılım geliştirici olarak blog dünyasındaki ilk kelimelerim"
