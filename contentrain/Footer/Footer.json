@@ -24,6 +24,13 @@
       "link": "https://twitter.com/sonrabulamazsin",
       "logo": "public/assets/1651586224620_twitter-svgrepo-com.svg",
       "createdAt": 1651586226135
+    },
+    "instagram": {
+      "ID": "1d191d79-cd40-4067-9909-395d6722e4c1",
+      "text": "IG",
+      "link": "https://www.instagram.com/serdarusta",
+      "logo": "public/assets/1651586283716_instagram-svgrepo-com.svg",
+      "createdAt": 1651586324610
     }
   }
 ]
