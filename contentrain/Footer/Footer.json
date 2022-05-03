@@ -31,6 +31,13 @@
       "link": "https://www.instagram.com/serdarusta",
       "logo": "public/assets/1651586283716_instagram-svgrepo-com.svg",
       "createdAt": 1651586324610
+    },
+    "linkedIn": {
+      "ID": "f27ceee4-912f-4c4f-bae1-4ad510867e82",
+      "text": "linkedIn",
+      "link": "https://www.linkedin.com/in/serdarusta/",
+      "logo": "public/assets/1651587786474_linkedin-svgrepo-com.svg",
+      "createdAt": 1651587787186
     }
   }
 ]
