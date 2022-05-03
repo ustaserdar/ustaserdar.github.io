@@ -13,8 +13,7 @@ export default function Intro() {
           className="underline hover:text-success duration-200 transition-colors"
         >
            {introData.underlinetext}
-        </a>{' '}
-        and {introData.cmsname}.
+        </a>
       </h4>
     </section>
   )
