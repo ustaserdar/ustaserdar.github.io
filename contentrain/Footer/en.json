@@ -1,0 +1,37 @@
+[
+  {
+    "updatedAt": 1651585901571,
+    "createdAt": 1648802703340,
+    "ID": "50be3da6-beb2-4474-983a-facbc9622091",
+    "text": "This personal blog was created by me. Contact via {{LinkedIn: @serdarusta}}.",
+    "github": {
+      "createdAt": 1648802761441,
+      "ID": "6f0d23ff-c988-47f5-8690-17c1bd80f9ef",
+      "text": "GitHub",
+      "link": "https://github.com/ustaserdar",
+      "logo": "public/assets/1651586240886_github-logo-thin-svgrepo-com.svg",
+      "updatedAt": 1651586241921
+    },
+    "twitter": {
+      "ID": "9c4ebc2d-c106-45db-87e8-af9800582df3",
+      "text": "Twitter",
+      "link": "https://twitter.com/sonrabulamazsin",
+      "logo": "public/assets/1651586224620_twitter-svgrepo-com.svg",
+      "createdAt": 1651586226135
+    },
+    "instagram": {
+      "ID": "1d191d79-cd40-4067-9909-395d6722e4c1",
+      "text": "Instagram",
+      "link": "https://www.instagram.com/serdarusta",
+      "logo": "public/assets/1651586283716_instagram-svgrepo-com.svg",
+      "createdAt": 1651586324610
+    },
+    "linkedIn": {
+      "ID": "f27ceee4-912f-4c4f-bae1-4ad510867e82",
+      "text": "LinkedIn",
+      "link": "https://www.linkedin.com/in/serdarusta/",
+      "logo": "public/assets/1651587786474_linkedin-svgrepo-com.svg",
+      "createdAt": 1651587787186
+    }
+  }
+]
