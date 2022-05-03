@@ -17,6 +17,13 @@
       "link": "https://github.com/ustaserdar",
       "logo": "public/assets/1651586015755_github-icon-png-5.jpeg",
       "updatedAt": 1651586017802
+    },
+    "twitter": {
+      "ID": "9c4ebc2d-c106-45db-87e8-af9800582df3",
+      "text": "Tweety",
+      "link": "https://twitter.com/sonrabulamazsin",
+      "logo": "public/assets/1651586224620_twitter-svgrepo-com.svg",
+      "createdAt": 1651586226135
     }
   }
 ]
