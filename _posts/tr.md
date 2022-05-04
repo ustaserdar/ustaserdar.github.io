@@ -23,7 +23,7 @@ ogImage:
 updatedAt: 1651665253805
 
 ---
-Çok klasik bir giriş oldu, hem kapak görseliyle hem başlığıyla. Aslında yazacağım bu ilk cümlelerin açıklaması niteliğinde bir yazıyla adım atacağım blog dünyasına. 
+Çok klasik bir giriş oldu, hem kapak görseliyle hem başlığıyla. Aslında yazacağım bu ilk cümlelerin açıklaması niteliğinde bir yazıyla adım atacağım blog dünyasına.
 
 Öncelikle her ne kadar farkında olmasalar da yıllardır istediğim, öğrendiklerimi ve tecrübe ettiklerimi yazma isteğini rahatlıkla hayata geçirebilmemi sağlayan [Content Rain](https://contentrain.io/) ekibine teşekkür ederek başlamak istiyorum. Bir diğer teşekkür de aslında Twitter'da takip ettiğim ve konu hakkında paylaşımlarına denk geldiğim [Didem Küçükkaraaslan'a](https://twitter.com/DidemKkkaraasl1) olacak. Umarım ismini ve twitter adresini izinsiz paylaştığım için
 
@@ -35,5 +35,4 @@ Sektöre girişim, öncesinde de bahsettiğim eğitim sonrasında, kariyer danı
 
 Son olarak da bana asıl ilham kaynağı olan abim (evet evet öz abim) Selçuk Usta'ya çok teşekkür ediyorum. Kendisinin kariyer yolculuğu ve azmi bana kendimi geliştirme ve daha iyi olma konusunda tahmin edemeyeceği derecede motivasyon sağlıyor.
 
-Söylemeden geçemeyeceğim, kısmetse bir ay içerisinde baba olacağım. Umarım sağlıkla ve huzurla gelir. İlk yazım olması sebebiyle bunu oğlum Ilgaz'a şimdiden ithaf ediyorum. Sektör bir junior daha kazanacak diye ümit ediyorum :) Daha çok erken ama benzer bir yolda yürümek isteyeceğine eminim. Umarım benden çok daha güzel bir hayatı, bir geleceği olur. 
-
+Söylemeden geçemeyeceğim, kısmetse bir ay içerisinde baba olacağım. Umarım sağlıkla ve huzurla gelir. İlk yazım olması sebebiyle bunu oğlum Ilgaz'a şimdiden ithaf ediyorum. Sektör bir junior daha kazanacak diye ümit ediyorum :) Daha çok erken ama benzer bir yolda yürümek isteyeceğine eminim. Umarım benden çok daha güzel bir hayatı, bir geleceği olur.

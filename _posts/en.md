@@ -1,14 +1,14 @@
 ---
 createdAt: 1651590872890
-title: "İlk cümleler hayatın her anında kıymetli"
+title: "İlk cümleler hayatın her anında kıymetlidir"
 categories:
   - "blog"
 ID: "2f9224a8-8a7f-4ded-b983-408aaeeae180"
-slug: "first-steps"
+slug: "ilk-adimlarim"
 description: "Bir yazılım geliştirici olarak blog dünyasındaki ilk cümlelerimi sizlerle paylaşmaktan dolayı çok mutluyum. Bilinenleri aktarmak, bilinmeyenleri öğrenmek artık en büyük hedeflerimden biri."
 tags:
   - "tas"
-coverImage: "public/assets/1651590157635_First-steps-of-a-1-year-old-baby-boy-in-the-kitchen-1296x728-header-1296x728.webp"
+coverImage: "public/assets/1651661958889_little-curious-child-studying-modern-technology-while-lying-floor-tummy-against-window-toddler-using-laptop-home-infant-wearing-white-t-shirt.jpg"
 author:
   createdAt: 1651590872890
   ID: "524c0608-83d6-4bb0-a833-3e2e4df14959"
@@ -20,10 +20,10 @@ ogImage:
   ID: "6dffe5d9-d6f1-4e2b-a4dc-3dada90ab412"
   url: "public/assets/1651590316238_First-steps-of-a-1-year-old-baby-boy-in-the-kitchen-1296x728-header-1296x728.webp"
   updatedAt: 1651590872890
-updatedAt: 1651664589066
+updatedAt: 1651665253805
 
 ---
-Çok klasik bir giriş oldu, hem kapak görseliyle hem başlığıyla. Aslında yazacağım bu ilk cümlelerin açıklaması niteliğinde bir yazıyla adım atacağım blog dünyasına. 
+Çok klasik bir giriş oldu, hem kapak görseliyle hem başlığıyla. Aslında yazacağım bu ilk cümlelerin açıklaması niteliğinde bir yazıyla adım atacağım blog dünyasına.
 
 Öncelikle her ne kadar farkında olmasalar da yıllardır istediğim, öğrendiklerimi ve tecrübe ettiklerimi yazma isteğini rahatlıkla hayata geçirebilmemi sağlayan [Content Rain](https://contentrain.io/) ekibine teşekkür ederek başlamak istiyorum. Bir diğer teşekkür de aslında Twitter'da takip ettiğim ve konu hakkında paylaşımlarına denk geldiğim [Didem Küçükkaraaslan'a](https://twitter.com/DidemKkkaraasl1) olacak. Umarım ismini ve twitter adresini izinsiz paylaştığım için
 
@@ -35,5 +35,4 @@ Sektöre girişim, öncesinde de bahsettiğim eğitim sonrasında, kariyer danı
 
 Son olarak da bana asıl ilham kaynağı olan abim (evet evet öz abim) Selçuk Usta'ya çok teşekkür ediyorum. Kendisinin kariyer yolculuğu ve azmi bana kendimi geliştirme ve daha iyi olma konusunda tahmin edemeyeceği derecede motivasyon sağlıyor.
 
-Söylemeden geçemeyeceğim, kısmetse bir ay içerisinde baba olacağım. Umarım sağlıkla ve huzurla gelir. İlk yazım olması sebebiyle bunu oğlum Ilgaz'a şimdiden ithaf ediyorum. Sektör bir junior daha kazanacak diye ümit ediyorum :) Daha çok erken ama benzer bir yolda yürümek isteyeceğine eminim. Umarım benden çok daha güzel bir hayatı, bir geleceği olur. 
-
+Söylemeden geçemeyeceğim, kısmetse bir ay içerisinde baba olacağım. Umarım sağlıkla ve huzurla gelir. İlk yazım olması sebebiyle bunu oğlum Ilgaz'a şimdiden ithaf ediyorum. Sektör bir junior daha kazanacak diye ümit ediyorum :) Daha çok erken ama benzer bir yolda yürümek isteyeceğine eminim. Umarım benden çok daha güzel bir hayatı, bir geleceği olur.
