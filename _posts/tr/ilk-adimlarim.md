@@ -1,6 +1,6 @@
 ---
 createdAt: 1651590872890
-title: "İlk cümleler hayatın her anında kıymetli"
+title: "İlk cümleler hayatın her anında kıymetlidir"
 categories:
   - "blog"
 ID: "2f9224a8-8a7f-4ded-b983-408aaeeae180"
@@ -20,7 +20,7 @@ ogImage:
   ID: "6dffe5d9-d6f1-4e2b-a4dc-3dada90ab412"
   url: "public/assets/1651590316238_First-steps-of-a-1-year-old-baby-boy-in-the-kitchen-1296x728-header-1296x728.webp"
   updatedAt: 1651590872890
-updatedAt: 1651664431832
+updatedAt: 1651665253805
 
 ---
 Çok klasik bir giriş oldu, hem kapak görseliyle hem başlığıyla. Aslında yazacağım bu ilk cümlelerin açıklaması niteliğinde bir yazıyla adım atacağım blog dünyasına. 
