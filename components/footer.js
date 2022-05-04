@@ -1,3 +1,4 @@
+import Avatar from "../components/avatar";
 import Container from "./container";
 import data from "../contentrain/Footer/Footer.json";
 const footerData = data[0];
@@ -12,16 +13,16 @@ export default function Footer() {
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
-              href={footerData.linkedIn.link}
-              className="mx-3 font-bold hover:underline"
-            >
-              {footerData.linkedIn.text}
-            </a>
-            <a
               href={footerData.github.link}
               className="mx-3 font-bold hover:underline"
             >
-              {footerData.github.text}
+              <Avatar name="" picture={footerData.github.logo} />
+            </a>
+            <a
+              href={footerData.linkedIn.link}
+              className="mx-3 font-bold hover:underline"
+            >
+              <Avatar name="" picture={footerData.linkedIn.logo} />
             </a>
           </div>
         </div>
