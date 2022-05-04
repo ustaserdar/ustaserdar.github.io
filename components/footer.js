@@ -23,18 +23,6 @@ export default function Footer() {
             >
               {footerData.github.text}
             </a>
-            <a
-              href={footerData.twitter.link}
-              className="mx-3 font-bold hover:underline"
-            >
-              {footerData.twitter.text}
-            </a>
-            <a
-              href={footerData.instagram.link}
-              className="mx-3 font-bold hover:underline"
-            >
-              {footerData.instagram.text}
-            </a>
           </div>
         </div>
       </Container>
