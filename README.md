@@ -7,6 +7,7 @@ Modern ve teknoloji odaklı kişisel websitesi. Yazılım Takım Lideri olarak �
 ✨ **Modern Tasarım**: Teknoloji odaklı dark theme ile gradient renkler  
 🚀 **Performans**: Vanilla JavaScript ile hızlı yükleme  
 📱 **Responsive**: Tüm cihazlarda mükemmel görünüm  
+🌍 **Çoklu Dil**: Türkçe/İngilizce dil desteği  
 🎯 **SEO Optimized**: Arama motorları için optimize edilmiş  
 ⚡ **GitHub Pages**: Otomatik deployment ile canlı yayın  
 
@@ -14,7 +15,7 @@ Modern ve teknoloji odaklı kişisel websitesi. Yazılım Takım Lideri olarak �
 
 - **HTML5**: Semantic markup
 - **CSS3**: Modern CSS özellikleri, Grid, Flexbox
-- **JavaScript**: Vanilla JS, Intersection Observer API
+- **JavaScript**: Vanilla JS, Intersection Observer API, embedded i18n
 - **GitHub Actions**: Otomatik deployment
 - **GitHub Pages**: Hosting
 
@@ -39,9 +40,6 @@ Modern ve teknoloji odaklı kişisel websitesi. Yazılım Takım Lideri olarak �
 ```bash
 # Repository'yi klonlayın
 git clone https://github.com/ustaserdar/ustaserdar.github.io.git
-
-# Klasöre gidin
-cd personal-website
 
 # Web sunucusu başlatın (örnek: Live Server)
 npx live-server

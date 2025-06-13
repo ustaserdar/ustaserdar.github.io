@@ -17,21 +17,25 @@
             </div>
             <ul class="nav-menu">
                 <li class="nav-item">
-                    <a href="#home" class="nav-link">Ana Sayfa</a>
+                    <a href="#home" class="nav-link" data-i18n="nav.home">Ana Sayfa</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#about" class="nav-link">Hakkımda</a>
+                    <a href="#about" class="nav-link" data-i18n="nav.about">Hakkımda</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#experience" class="nav-link">Deneyim</a>
+                    <a href="#experience" class="nav-link" data-i18n="nav.experience">Deneyim</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#articles" class="nav-link">Makaleler</a>
+                    <a href="#articles" class="nav-link" data-i18n="nav.articles">Makaleler</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#contact" class="nav-link">İletişim</a>
+                    <a href="#contact" class="nav-link" data-i18n="nav.contact">İletişim</a>
                 </li>
             </ul>
+            <div class="language-switcher">
+                <button class="lang-btn active" data-lang="tr">TR</button>
+                <button class="lang-btn" data-lang="en">EN</button>
+            </div>
             <div class="hamburger">
                 <span class="bar"></span>
                 <span class="bar"></span>
@@ -46,16 +50,16 @@
             <div class="hero-content">
                 <div class="hero-text">
                     <h1 class="hero-title">
-                        Merhaba, Ben <span class="highlight">Serdar Usta</span>
+                        <span data-i18n="hero.greeting">Merhaba, Ben</span> <span class="highlight" data-i18n="hero.name">Serdar Usta</span>
                     </h1>
-                    <h2 class="hero-subtitle">Yazılım Takım Lideri & Geliştirici</h2>
-                    <p class="hero-description">
+                    <h2 class="hero-subtitle" data-i18n="hero.title">Yazılım Takım Lideri & Geliştirici</h2>
+                    <p class="hero-description" data-i18n="hero.description">
                         Hepsiburada'da Yazılım Takım Lideri olarak çalışıyorum. 
                         Modern teknolojiler ile ölçeklenebilir çözümler geliştiriyorum.
                     </p>
                     <div class="hero-buttons">
-                        <a href="#contact" class="btn btn-primary">İletişime Geç</a>
-                        <a href="#articles" class="btn btn-secondary">Makalelerimi Oku</a>
+                        <a href="#contact" class="btn btn-primary" data-i18n="hero.contactBtn">İletişime Geç</a>
+                        <a href="#articles" class="btn btn-secondary" data-i18n="hero.articlesBtn">Makalelerimi Oku</a>
                     </div>
                 </div>
                 <div class="hero-image">
@@ -76,25 +80,25 @@
     <section id="about" class="about">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title">Hakkımda</h2>
-                <p class="section-subtitle">Yazılım dünyasındaki yolculuğum</p>
+                <h2 class="section-title" data-i18n="about.title">Hakkımda</h2>
+                <p class="section-subtitle" data-i18n="about.subtitle">Yazılım dünyasındaki yolculuğum</p>
             </div>
             <div class="about-content">
                 <div class="about-text">
-                    <p>
+                    <p data-i18n="about.description1">
                         İstanbul merkezli bir yazılım takım lideri olarak, modern teknolojiler kullanarak 
                         ölçeklenebilir ve sürdürülebilir yazılım çözümleri geliştiriyorum. 
                         Hepsiburada'da ekip lideri olarak çalışırken, aynı zamanda yazılım dünyasındaki 
                         deneyimlerimi Medium'da makaleler yazarak paylaşıyorum.
                     </p>
-                    <p>
+                    <p data-i18n="about.description2">
                         Teknoloji tutkusu ve ekip yönetimi deneyimim ile birlikte, 
                         modern yazılım geliştirme süreçlerinde aktif rol alıyorum. 
                         .NET Core, mikroservis mimarileri ve dağıtık sistemler konularında uzmanlaşmış durumdayım.
                     </p>
                 </div>
                 <div class="skills">
-                    <h3>Teknik Yetenekler</h3>
+                    <h3 data-i18n="about.skillsTitle">Teknik Yetenekler</h3>
                     <div class="skill-grid">
                         <div class="skill-item">
                             <i class="fab fa-microsoft"></i>
@@ -130,19 +134,19 @@
     <section id="experience" class="experience">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title">Profesyonel Deneyim</h2>
-                <p class="section-subtitle">Kariyer yolculuğum</p>
+                <h2 class="section-title" data-i18n="experience.title">Profesyonel Deneyim</h2>
+                <p class="section-subtitle" data-i18n="experience.subtitle">Kariyer yolculuğum</p>
             </div>
             <div class="timeline">
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <div class="timeline-header">
-                            <h3>Yazılım Takım Lideri</h3>
-                            <span class="company">Hepsiburada</span>
-                            <span class="period">Güncel</span>
+                            <h3 data-i18n="experience.position">Yazılım Takım Lideri</h3>
+                            <span class="company" data-i18n="experience.company">Hepsiburada</span>
+                            <span class="period" data-i18n="experience.period">Güncel</span>
                         </div>
-                        <p>
+                        <p data-i18n="experience.description">
                             E-ticaret platformunun kritik sistemlerini yöneten ekibin lideri olarak, 
                             ölçeklenebilir mikroservis mimarileri geliştiriyor ve ekip performansını optimize ediyorum.
                         </p>
@@ -162,8 +166,8 @@
     <section id="articles" class="articles">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title">Medium Makalelerim</h2>
-                <p class="section-subtitle">Yazılım dünyasındaki deneyimlerimi paylaşıyorum</p>
+                <h2 class="section-title" data-i18n="articles.title">Medium Makalelerim</h2>
+                <p class="section-subtitle" data-i18n="articles.subtitle">Yazılım dünyasındaki deneyimlerimi paylaşıyorum</p>
             </div>
             <div class="articles-grid">
                 <div class="article-card">
@@ -171,10 +175,10 @@
                         <i class="fas fa-code"></i>
                     </div>
                     <div class="article-content">
-                        <h3>CAP Kütüphanesi ve Idempotency</h3>
-                        <p>DotNetCore CAP kütüphanesi için idempotency problemi çözümü</p>
-                        <a href="https://medium.com/@serdar_usta" target="_blank" class="article-link">
-                            Makaleyi Oku <i class="fas fa-external-link-alt"></i>
+                        <h3 data-i18n="articles.article1.title">CAP Kütüphanesi ve Idempotency</h3>
+                        <p data-i18n="articles.article1.description">DotNetCore CAP kütüphanesi için idempotency problemi çözümü</p>
+                        <a href="https://medium.com/@serdar_usta/s%C3%B6ylemesi-haval%C4%B1-bir-o-kadar-sinir-bozucu-idempotency-in-event-driven-architecture-f885f19184e2" target="_blank" class="article-link">
+                            <span data-i18n="articles.article1.readMore">Makaleyi Oku</span> <i class="fas fa-external-link-alt"></i>
                         </a>
                     </div>
                 </div>
@@ -183,10 +187,10 @@
                         <i class="fas fa-heartbeat"></i>
                     </div>
                     <div class="article-content">
-                        <h3>ASP.NET Core Health Check</h3>
-                        <p>.NET 8 ile ASP.NET Core Web API uygulamalarında Health Check altyapısı</p>
-                        <a href="https://medium.com/@serdar_usta" target="_blank" class="article-link">
-                            Makaleyi Oku <i class="fas fa-external-link-alt"></i>
+                        <h3 data-i18n="articles.article2.title">ASP.NET Core Health Check</h3>
+                        <p data-i18n="articles.article2.description">.NET 8 ile ASP.NET Core Web API uygulamalarında Health Check altyapısı</p>
+                        <a href="https://medium.com/@serdar_usta/s%C4%B1hhatte-miyiz-arkada%C5%9Flar-asp-net-core-web-api-uygulamalar%C4%B1nda-health-check-kurgular%C4%B1-9c39357861e4" target="_blank" class="article-link">
+                            <span data-i18n="articles.article2.readMore">Makaleyi Oku</span> <i class="fas fa-external-link-alt"></i>
                         </a>
                     </div>
                 </div>
@@ -195,17 +199,17 @@
                         <i class="fas fa-network-wired"></i>
                     </div>
                     <div class="article-content">
-                        <h3>Dağıtık Sistemler</h3>
-                        <p>Mikroservis mimarilerinde dağıtık işlem çözümleri</p>
+                        <h3 data-i18n="articles.article3.title">Dağıtık Sistemler</h3>
+                        <p data-i18n="articles.article3.description">Mikroservis mimarilerinde dağıtık işlem çözümleri</p>
                         <a href="https://medium.com/@serdar_usta" target="_blank" class="article-link">
-                            Makaleyi Oku <i class="fas fa-external-link-alt"></i>
+                            <span data-i18n="articles.article3.readMore">Makaleyi Oku</span> <i class="fas fa-external-link-alt"></i>
                         </a>
                     </div>
                 </div>
             </div>
             <div class="medium-link">
                 <a href="https://medium.com/@serdar_usta" target="_blank" class="btn btn-outline">
-                    Tüm Makalelerimi Görüntüle <i class="fab fa-medium"></i>
+                    <span data-i18n="articles.viewAll">Tüm Makalelerimi Görüntüle</span> <i class="fab fa-medium"></i>
                 </a>
             </div>
         </div>
@@ -215,18 +219,18 @@
     <section id="contact" class="contact">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title">İletişim</h2>
-                <p class="section-subtitle">Sosyal medya hesaplarım ve iletişim bilgilerim</p>
+                <h2 class="section-title" data-i18n="contact.title">İletişim</h2>
+                <p class="section-subtitle" data-i18n="contact.subtitle">Sosyal medya hesaplarım ve iletişim bilgilerim</p>
             </div>
             <div class="contact-content">
                 <div class="contact-info">
                     <div class="contact-item">
                         <i class="fas fa-map-marker-alt"></i>
-                        <span>İstanbul, Türkiye</span>
+                        <span data-i18n="contact.location">İstanbul, Türkiye</span>
                     </div>
                     <div class="contact-item">
                         <i class="fas fa-briefcase"></i>
-                        <span>Hepsiburada - Yazılım Takım Lideri</span>
+                        <span data-i18n="contact.position">Hepsiburada - Yazılım Takım Lideri</span>
                     </div>
                 </div>
                 <div class="social-links">
@@ -246,10 +250,6 @@
                         <i class="fab fa-instagram"></i>
                         <span>Instagram</span>
                     </a>
-                    <a href="https://www.facebook.com/serdar.usta1" target="_blank" class="social-link facebook">
-                        <i class="fab fa-facebook-f"></i>
-                        <span>Facebook</span>
-                    </a>
                 </div>
             </div>
         </div>
@@ -259,8 +259,8 @@
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
-                <p>&copy; 2025 Serdar Usta. Tüm hakları saklıdır.</p>
-                <p>Teknoloji ile hayatı daha kolay hale getiriyorum 🚀</p>
+                <p data-i18n="footer.copyright">&copy; 2025 Serdar Usta. Tüm hakları saklıdır.</p>
+                <p data-i18n="footer.tagline">Teknoloji ile hayatı daha kolay hale getiriyorum 🚀</p>
             </div>
         </div>
     </footer>
