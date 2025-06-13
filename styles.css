@@ -463,6 +463,27 @@ section {
 
 .timeline-header {
     margin-bottom: 1rem;
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.company-logo {
+    flex-shrink: 0;
+}
+
+.company-logo-img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    background: white;
+    border-radius: 8px;
+    padding: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.job-info {
+    flex: 1;
 }
 
 .timeline-header h3 {
@@ -736,6 +757,17 @@ section {
     .timeline-content {
         width: calc(100% - 60px);
         margin-left: 60px;
+    }
+
+    .timeline-header {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .company-logo-img {
+        width: 50px;
+        height: 50px;
+        padding: 6px;
     }
 
     .contact-content {

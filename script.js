@@ -30,10 +30,30 @@ const translationData = {
         "experience": {
             "title": "Profesyonel Deneyim",
             "subtitle": "Kariyer yolculuğum",
-            "position": "Yazılım Takım Lideri",
-            "company": "Hepsiburada",
-            "period": "Güncel",
-            "description": "E-ticaret platformunun kritik sistemlerini yöneten ekibin lideri olarak, ölçeklenebilir mikroservis mimarileri geliştiriyor ve ekip performansını optimize ediyorum."
+            "hepsiburada": {
+                "position": "Yazılım Takım Lideri",
+                "company": "Hepsiburada",
+                "period": "2021 - ",
+                "description": "E-ticaret platformunun kritik sistemlerini yöneten ekibin lideri olarak, ölçeklenebilir mikroservis mimarileri geliştiriyor ve ekip performansını optimize ediyorum."
+            },
+            "neredekal": {
+                "position": "Yazılım Geliştirici",
+                "company": "Neredekal",
+                "period": "2020 - 2021",
+                "description": "Turizm sektöründe meta search teknolojileri kullanarak otel karşılaştırma platformunun geliştirilmesinde aktif rol aldım. Mikroservis mimarileri ve API entegrasyonları konusunda deneyim kazandım."
+            },
+            "bein": {
+                "position": "Yazılım Geliştirici",
+                "company": "beIN Media Group",
+                "period": "2019 - 2020",
+                "description": "OTT (Over-The-Top) medya servisleri ve streaming platformları geliştirdim. Canlı yayın teknolojileri ve video işleme sistemleri konusunda uzmanlaştım."
+            },
+            "sovos": {
+                "position": "Yazılım Geliştirici",
+                "company": "Sovos Foriba",
+                "period": "2018 - 2019",
+                "description": "Elektronik belge iş akışları alanında e-fatura, e-arşiv ve e-defter sistemlerinin geliştirilmesinde yer aldım. Kurumsal ölçekteki fintech çözümlerinde deneyim kazandım."
+            }
         },
         "articles": {
             "title": "Medium Yazılarım",
@@ -85,12 +105,32 @@ const translationData = {
             "skillsTitle": "Technical Skills"
         },
         "experience": {
-            "title": "Professional Experiences",
+            "title": "Professional Experience",
             "subtitle": "My career journey",
-            "position": "Software Development Team Lead",
-            "company": "Hepsiburada",
-            "period": "Current",
-            "description": "As the leader of the team managing critical systems of the e-commerce platform, I develop scalable microservice architectures and optimize team performance."
+            "hepsiburada": {
+                "position": "Software Development Team Lead",
+                "company": "Hepsiburada",
+                "period": "2021 - ",
+                "description": "As the leader of the team managing critical systems of the e-commerce platform, I develop scalable microservice architectures and optimize team performance."
+            },
+            "neredekal": {
+                "position": "Software Developer",
+                "company": "Neredekal",
+                "period": "2020 - 2021",
+                "description": "I played an active role in developing hotel comparison platform using meta search technologies in tourism sector. Gained experience in microservice architectures and API integrations."
+            },
+            "bein": {
+                "position": "Software Developer",
+                "company": "beIN Media Group",
+                "period": "2019 - 2020",
+                "description": "Developed OTT (Over-The-Top) media services and streaming platforms. Specialized in live streaming technologies and video processing systems."
+            },
+            "sovos": {
+                "position": "Software Developer",
+                "company": "Sovos Foriba",
+                "period": "2018 - 2019",
+                "description": "Participated in developing e-invoice, e-archive and e-ledger systems in electronic document workflows. Gained experience in enterprise-scale fintech solutions."
+            }
         },
         "articles": {
             "title": "My Medium Articles",
