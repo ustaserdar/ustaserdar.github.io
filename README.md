@@ -38,7 +38,7 @@ Modern ve teknoloji odaklı kişisel websitesi. Yazılım Takım Lideri olarak �
 
 ```bash
 # Repository'yi klonlayın
-git clone https://github.com/ustaserdar/personal-website.git
+git clone https://github.com/ustaserdar/ustaserdar.github.io.git
 
 # Klasöre gidin
 cd personal-website

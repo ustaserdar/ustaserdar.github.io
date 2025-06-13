@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ustaserdar.github.io/personal-website/sitemap.xml 
+Sitemap: https://ustaserdar.github.io/sitemap.xml 
