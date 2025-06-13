@@ -1,61 +1,66 @@
-# A statically generated blog example using Next.js and Markdown
+# Serdar Usta - Kişisel Website
 
-This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.
+Modern ve teknoloji odaklı kişisel websitesi. Yazılım Takım Lideri olarak çalıştığım Hepsiburada'daki deneyimlerimi ve Medium'da yazdığım makalelerimi paylaştığım tek sayfalık bir websitesi.
 
-The blog posts are stored in `/_posts` as Markdown files with front matter support. Adding a new Markdown file in there will create a new blog post.
+## Özellikler
 
-To create the blog posts we use [`remark`](https://github.com/remarkjs/remark) and [`remark-html`](https://github.com/remarkjs/remark-html) to convert the Markdown files into an HTML string, and then send it down as a prop to the page. The metadata of every post is handled by [`gray-matter`](https://github.com/jonschlinkert/gray-matter) and also sent in props to the page.
+✨ **Modern Tasarım**: Teknoloji odaklı dark theme ile gradient renkler  
+🚀 **Performans**: Vanilla JavaScript ile hızlı yükleme  
+📱 **Responsive**: Tüm cihazlarda mükemmel görünüm  
+🎯 **SEO Optimized**: Arama motorları için optimize edilmiş  
+⚡ **GitHub Pages**: Otomatik deployment ile canlı yayın  
 
-## Demo
+## Teknolojiler
 
-[https://next-blog-starter.vercel.app/](https://next-blog-starter.vercel.app/)
+- **HTML5**: Semantic markup
+- **CSS3**: Modern CSS özellikleri, Grid, Flexbox
+- **JavaScript**: Vanilla JS, Intersection Observer API
+- **GitHub Actions**: Otomatik deployment
+- **GitHub Pages**: Hosting
 
-## Deploy your own
+## Bölümler
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/blog-starter)
+1. **Ana Sayfa**: Hero section ile tanıtım
+2. **Hakkımda**: Kişisel bilgiler ve teknik yetenekler
+3. **Deneyim**: Profesyonel kariyer geçmişi
+4. **Makaleler**: Medium'daki yazılarım
+5. **İletişim**: Sosyal medya hesaplarım
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/blog-starter&project-name=blog-starter&repository-name=blog-starter)
+## Sosyal Medya
 
-### Related examples
+- 🔗 [LinkedIn](https://www.linkedin.com/in/serdarusta/)
+- 📝 [Medium](https://medium.com/@serdar_usta)
+- 💻 [GitHub](https://github.com/ustaserdar)
+- 📷 [Instagram](https://www.instagram.com/serdarusta/)
+- 👥 [Facebook](https://www.facebook.com/serdar.usta1)
 
-- [WordPress](/examples/cms-wordpress)
-- [DatoCMS](/examples/cms-datocms)
-- [Sanity](/examples/cms-sanity)
-- [TakeShape](/examples/cms-takeshape)
-- [Prismic](/examples/cms-prismic)
-- [Contentful](/examples/cms-contentful)
-- [Strapi](/examples/cms-strapi)
-- [Agility CMS](/examples/cms-agilitycms)
-- [Cosmic](/examples/cms-cosmic)
-- [ButterCMS](/examples/cms-buttercms)
-- [Storyblok](/examples/cms-storyblok)
-- [GraphCMS](/examples/cms-graphcms)
-- [Kontent](/examples/cms-kontent)
-- [Umbraco Heartcore](/examples/cms-umbraco-heartcore)
-- [Builder.io](/examples/cms-builder-io)
+## Kurulum
 
-## How to use
+```bash
+# Repository'yi klonlayın
+git clone https://github.com/ustaserdar/personal-website.git
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+# Klasöre gidin
+cd personal-website
 
-```
-npx create-next-app --example blog-starter blog-starter-app
-
-```
-
-or
-
-```
-yarn create next-app --example blog-starter blog-starter-app
-# or
-pnpm create next-app -- --example blog-starter blog-starter-app
-
+# Web sunucusu başlatın (örnek: Live Server)
+npx live-server
 ```
 
-Your blog should be up and running on [http://localhost:3000](http://localhost:3000)! If it doesn't work, post on [GitHub discussions](https://github.com/vercel/next.js/discussions).
+## Deployment
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Website GitHub Actions ile otomatik olarak GitHub Pages'e deploy edilir. Her `main` branch'e push işleminde otomatik deployment gerçekleşir.
 
-# Notes
+### GitHub Pages Ayarları
 
-This blog-starter uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
+1. Repository Settings > Pages
+2. Source: GitHub Actions
+3. Custom domain (opsiyonel): Kendi domain adresinizi ekleyebilirsiniz
+
+## Lisans
+
+© 2025 Serdar Usta. Tüm hakları saklıdır.
+
+---
+
+**Teknoloji ile hayatı daha kolay hale getiriyorum 🚀** 
